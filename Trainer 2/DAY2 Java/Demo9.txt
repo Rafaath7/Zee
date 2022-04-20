@@ -1,0 +1,33 @@
+class A
+{
+	int a;
+	A(){}
+	void abc(){}
+	void xzy(){}
+
+}
+abstract class B
+{
+	int a ;
+	B(){}
+	void abc(){}
+	void xzy(){}
+	abstract void aaa();
+}
+
+interface I 
+{
+	int a=100;
+	//I(){}
+	void abc();
+	void abc1();
+}
+class Demo9
+{
+	public static void main(String args[])
+	{
+		A a =new A();
+		//B b =new B();
+		//I i=new I();
+	}
+}

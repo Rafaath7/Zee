@@ -1,0 +1,16 @@
+
+
+
+
+Class 			Abstract class 			Interface 
+
+
+Normal Method 		norml  + abstract 		only absrtract 
+A(){}			B(){}				//I(){}
+
+Obj : yes 		no 				no 
+int a;			int a; 				no 
+MI : no			no 				yes 
+Security : 
+	no sec		0-100%				100%(only abstract s )
+			

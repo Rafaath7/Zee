@@ -1,0 +1,28 @@
+When you create child class object- super class constructoer is called - This is chaining
+
+private so that child cannot extend the particular variable
+
+Final VARIABLE so that child cannot change values/REASSIGN
+
+Final class- no one can inherit the class properties or the class itself 
+
+Final void loan(){
+}
+ you can make a method final 
+
+
+cannot apply private access modifier to class 
+
+only default and public for class - you have to explicitly mention public 
+
+The difference b/w public and default for classes is that in different files when public used it can stil be extended 
+
+scope of default in particular file 
+
+Constructor Overriding not possible in java only overloading possible
+
+to override method the signature must be same but implementation can be different 
+
+Overloading- same 
+Overriding- different 
+

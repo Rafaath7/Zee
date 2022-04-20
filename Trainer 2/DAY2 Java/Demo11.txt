@@ -1,0 +1,18 @@
+abstract class bank
+{
+	abstract void loan();	
+}
+class SBI extends bank
+{
+	void loan(){}	
+}
+class ICICI extends bank
+{
+	
+}
+class Aix 
+{
+}
+class Demo11
+{
+}

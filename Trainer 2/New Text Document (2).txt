@@ -1,0 +1,15 @@
+jdk
+ecllipse
+STS- spring tool suite
+Node.js
+Visual Studio code
+Postman- Api testing
+Database- Oracle or mysql or mongo
+
+
+
+
+Javac Demo.java
+Java Demo
+
+
